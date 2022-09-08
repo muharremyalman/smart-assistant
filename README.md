@@ -1,4 +1,3 @@
-## Grup projesidir. Projenin Yöneticisiyim.
 ## Çevremizdeki önemli sorunları ele aldığımızda, kişinin eğitim hayatı boyunca hedeflerine net olarak karar verememesi sürecinden hareketle kendini yetiştirememesi ve mezun olduğunda hayatın gerçekleri ile tanışmadan bu bilincin anlaşılamaması veya anlamış olup çok geç kalınması nedeniyle akıllı asistan fikrini düşündük.
 
 https://www.youtube.com/channel/UCAm8YtD_UmFiXKKenl7n62w/videos
